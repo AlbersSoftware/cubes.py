@@ -1,5 +1,5 @@
 # Updated Visualization for John
-
+![fixed for visualization](https://github.com/AlbersSoftware/cubes.py/assets/65799182/0bf63118-bb5f-40bf-bbce-56083a10bf62)
 # Polycubes
 This code is associated with the Computerphile video on generating polycubes. A polycube is a set of cubes in any configuration in which all cubes are orthogonally connected - share a face. This code calculates all the variations of 3D polycubes for any size (time permitting!). 
 
