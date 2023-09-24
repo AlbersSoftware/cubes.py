@@ -1,3 +1,5 @@
+# Updated Visualization for John
+
 # Polycubes
 This code is associated with the Computerphile video on generating polycubes. A polycube is a set of cubes in any configuration in which all cubes are orthogonally connected - share a face. This code calculates all the variations of 3D polycubes for any size (time permitting!). 
 
